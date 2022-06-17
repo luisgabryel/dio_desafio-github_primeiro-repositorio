@@ -1,0 +1,9 @@
+Conceitos básicos do Git e do Github: https://docs.microsoft.com/pt-br/contribute/git-github-fundamentals
+
+Documentação do Git: https://git-scm.com/docs/git/pt_BR
+
+Documentação do Github: https://docs.github.com/pt/github-ae@latest/get-started/quickstart
+
+
+
+
